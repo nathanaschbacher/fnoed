@@ -63,7 +63,7 @@ This method is for sending events to your fnordmetric redis backend.
 
 ### .close()
 
-This is essentially a convenience wrapper around the redis client's .end() method.  If you have told your .send() method to "keepalive", then at some point you'll have to manually close your connection to 
+This is essentially a convenience wrapper around the redis client's .end() method.  If you have told your .send() method to "keepalive", then at some point you'll have to manually close your connection to keep orphaned connections from piling up.
 
 
 
