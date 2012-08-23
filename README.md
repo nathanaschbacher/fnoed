@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Coradine/fnoed.png)](http://travis-ci.org/Coradine/fnoed)
 # Overview
 
 fnoed is a node.js client to [fnordmetric](https://github.com/paulasmuth/fnordmetric/) with a simple, effective interface. 
