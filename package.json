@@ -4,7 +4,7 @@
   "description": "Node.js client for pushing events to fnordmetric redis store.",
   "author": "Nathan Aschbacher <nathan@coradine.com>",
   "contributors": [ 
-    { "name": "Nathan Aschbacher", "email": "nathan@coradine.com" }
+    { "name": "Nathan Aschbacher", "email": "nathan.aschbacher@gmail.com" }
   ],
   "license": "MIT",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Coradine/fnoed.git"
+    "url": "git://github.com/nathanaschbacher/fnoed.git"
   },
   "dependencies": {
     "node-uuid": ">=1.3.3",
